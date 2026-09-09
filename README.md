@@ -1,7 +1,9 @@
 fonomas
-aprende con especialistas y tecnologos
-centro de estudios para niños hasta tercero, y terapia 
-para niños con problemas para hablar, o de hacer algo.
-sus servicios son precensiales para que los niños puedan aprender de forma efectiva con la profesional pero en la pagina va estar el proceso, osea ( como se va a llevar a cabo la entrevista, valor de la entrevista...etc)
+FonoMás es un emprendimiento orientado al acompañamiento y desarrollo integral de niños, ofreciendo servicios de apoyo educativo y atención fonoaudiológica. La iniciativa contará con un centro de estudios dirigido a niños hasta tercero de primaria, recibirán acompañamiento en su proceso de aprendizaje y refuerzo académico.
+
+Además, FonoMás ofrecerá terapias y servicios relacionados con la fonoaudiología, enfocados en apoyar a niños que presenten dificultades en el lenguaje, habla, comunicación y otros aspectos de su desarrollo.
+
+La página web tendrá como objetivo facilitar la comunicación entre FonoMás y sus usuarios, permitiendo conocer los servicios ofrecidos, el proceso de atención o entrevista, la información relacionada con pagos y otros aspectos importantes del acompañamiento. De esta manera, se busca brindar una experiencia más organizada, accesible y clara para los padres o acudientes.
+
 
 

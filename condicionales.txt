@@ -1,0 +1,11 @@
+condicionales 
+permite que se cumpla algo si
+
+si esta lloviendo no voy 
+si no si voy 
+
+edad =17
+si edad < 18 
+"no puede entrar"
+sino
+"puede entrar"

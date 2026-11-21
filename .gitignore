@@ -4,3 +4,7 @@ citas.json.tmp
 citas.json.danado
 backups/
 .env
+
+.vercel
+.env*
+!.env.example

@@ -1,0 +1,6 @@
+node_modules/
+citas.json
+citas.json.tmp
+citas.json.danado
+backups/
+.env
